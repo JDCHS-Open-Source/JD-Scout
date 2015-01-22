@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  Scouting 3
+//
+//  Created by Halston van der Sluys on 1/20/15.
+//  Copyright (c) 2015 Halston van der Sluys. All rights reserved.
+//
+
+#ifndef Scouting_3_PrefixHeader_pch
+#define Scouting_3_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
